@@ -174,7 +174,7 @@ article img {
 }
 
 /* Card transition */
-/* .fade-move-enter-active,
+.fade-move-enter-active,
 .fade-move-exit-active {
   transition: all 300ms ease;
 }
@@ -183,4 +183,4 @@ article img {
 .fade-move-exit-to {
   opacity: 0;
   transform: translateY(10px);
-} */
+}
